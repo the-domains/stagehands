@@ -1,7 +1,7 @@
 name: Stagehands
 favicon: null
-layout_spectrum: 0.8967889971099794
-typography_spectrum: 0.8995510300155729
+layout_spectrum: 0.98911
+typography_spectrum: 0.75545
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#927361'
+    - '#0c0c0c'
+    - '#973b2e'
+    - '#ccff7a'
   brandStrength: 0.4737929222173989
-  lightness: 0.7314366993959993
-  saturation: 0.5534736083354801
-  rhythmicContrast: 0.7027138480916619
+  lightness: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
